@@ -9,6 +9,6 @@ Goal:
 - Model the effects of holidays.
 - Predict next weeks of sales using Prophet.
 
-![PIC1](/md_images/pic1.PNG)
+![PIC1](/md_image/pic1.PNG)
 
-![PIC2](/md_images/pic2.PNG)
+![PIC2](/md_image/pic2.PNG)
