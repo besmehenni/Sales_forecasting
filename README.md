@@ -9,6 +9,8 @@ Goal:
 - Model the effects of holidays.
 - Predict next weeks of sales using Prophet.
 
+Prediction results: MAPE 19.8%
+
 ![PIC1](/md_image/pic1.PNG)
 
 ![PIC2](/md_image/pic2.PNG)
